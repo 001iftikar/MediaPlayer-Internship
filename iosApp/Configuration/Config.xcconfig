@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=MediaPlayer-Internship
+PRODUCT_BUNDLE_IDENTIFIER=org.iftikar.musicplayer.MediaPlayer-Internship$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
