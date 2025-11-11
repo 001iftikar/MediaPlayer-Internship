@@ -15,9 +15,6 @@ The app streams trending songs fetched from a public music API and allows playba
 4. Run the Android target:
    ```bash
    ./gradlew :composeApp:installDebug
-   or generate a signed APK via:
-   ```bash
-   ./gradlew :composeApp:assembleRelease
    
 ## 🌐 API Used
 
