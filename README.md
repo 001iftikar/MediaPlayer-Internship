@@ -9,7 +9,7 @@ The app streams trending songs fetched from a public music API and allows playba
 ### Get the Apk from release and install it, OR
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/musicplayer-kmp.git
+   git clone https://github.com/001iftikar/MediaPlayer-Internship.git
 2. Open the project in Android Studio.
 3. Let Gradle sync automatically.
 4. Run the Android target:
